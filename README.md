@@ -31,7 +31,7 @@ Open the **index.html** to make any edits to images or to change the look of the
 It's using HTML5, CSS, & javascript.
 
 ## Preview
-![RedM Logo](https://files.catbox.moe/3wvsua.png)
+![RedM Logo](https://files.catbox.moe/3anxop.png)
 
 
 ## Credits
