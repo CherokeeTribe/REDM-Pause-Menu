@@ -1,6 +1,6 @@
 # Custom Pause Menu for RedM
 
-<img src="https://files.catbox.moe/fc1a65.png" alt="RedM Logo" width="300">
+![RedM Logo](https://cdn2.steamgriddb.com/icon/eb06b9db06012a7a4179b8f3cb5384d3/32/256x256.png)
 
 ## Overview
 
