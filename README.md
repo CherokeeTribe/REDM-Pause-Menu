@@ -1,6 +1,6 @@
 # Custom Pause Menu for RedM
 
-![RedM Logo](https://files.catbox.moe/fc1a65.png)
+<img src="https://files.catbox.moe/fc1a65.png" alt="RedM Logo" width="300">
 
 ## Overview
 
