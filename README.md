@@ -26,6 +26,10 @@ Follow these simple steps to install the custom pause menu on your RedM server:
    ```plaintext
    ensure PauseMenu
 
+## Custom Edits
+Open the **index.html** to make any edits to images or to change the look of the Pausemenu.
+It's using HTML5, CSS, & javascript.
+
 ## Preview
 ![RedM Logo](https://files.catbox.moe/3wvsua.png)
 
