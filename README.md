@@ -19,8 +19,10 @@ The original FiveM release can be found here: [Pause Menu Release](https://forum
 Follow these simple steps to install the custom pause menu on your RedM server:
 
 1. **Download** the repository files.
-2. **Drag and drop** the folder into your server's `resources` directory.
-3. Add the following line to your `server.cfg`:
+2. **Extract** the files using Winzip or Winrar
+3. **Open** the folder named **Pause-Menu-main**
+4. **Drag and drop** the folder named, **PauseMenu** into your server's `resources` directory.
+5. Add the following line to your `server.cfg`:
    ```plaintext
    ensure PauseMenu
 
