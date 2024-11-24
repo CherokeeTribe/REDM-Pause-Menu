@@ -1,6 +1,6 @@
 # Custom Pause Menu for RedM
 
-![RedM Logo](https://upload.wikimedia.org/wikipedia/commons/7/7f/Red_Dead_Redemption_2_logo.png)
+![RedM Logo]([https://upload.wikimedia.org/wikipedia/commons/7/7f/Red_Dead_Redemption_2_logo.png](https://cdn.discordapp.com/attachments/1170468691419349092/1310143696754442321/image.png?ex=6744cea6&is=67437d26&hm=6f5d625e454646cf4b9bb2dadeaa1ac0a15aaea28a803e64d100727556f09512&))
 
 ## Overview
 
