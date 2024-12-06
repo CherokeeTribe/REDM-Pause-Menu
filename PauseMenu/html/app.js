@@ -55,11 +55,11 @@ $(function(){
     })
 	
 	$('#discordinv').click(function(){
-        window.invokeNative('openUrl', 'https://discord.gg/ARsnCMnSQC')
+        window.invokeNative('openUrl', 'yourdiscordlinkhere')
     })
 	
 	$('#discordinv-icon').click(function(){
-        window.invokeNative('openUrl', 'https://discord.gg/ARsnCMnSQC'); // Same Discord link
+        window.invokeNative('openUrl', 'yourdiscordlinkhere'); // Same Discord link
     });
 	
     $('#exit').click(function(){
