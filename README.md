@@ -38,14 +38,14 @@ It's using HTML5, CSS, & javascript.
 To get it back to looking like this without the discord icon-
 Go to the index.html
 re-add this:
-```plaintext
+   ```plaintext
    <button id="discordinv" class="options">DISCORD</button><br/>
 
-remove from the bottom of the page: 
-```plaintext
+remove this from the bottom of the page: 
    <button id="discordinv-icon" class="options" style="background: blue; color: white; font-size: 20px;">
                         <i class="fa-brands fa-discord"></i>
-                    </button>
+                    </button>```
+
 
 ## Credits
 Original Author: billzoygkos
