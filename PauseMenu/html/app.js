@@ -54,13 +54,17 @@ $(function(){
 	   
     })
 	
+	$('#discordinv').click(function(){
+        window.invokeNative('openUrl', 'https://discord.gg/ARsnCMnSQC')
+    })
+	
+	$('#discordinv-icon').click(function(){
+        window.invokeNative('openUrl', 'https://discord.gg/ARsnCMnSQC'); // Same Discord link
+    });
+	
     $('#exit').click(function(){
 		$.post('https://PauseMenu/SendAction', JSON.stringify({action: 'exit'}));
       CloseAll()
-    })
-
-    $('#discordinv').click(function(){
-        window.invokeNative('openUrl', 'https://discord.gg/infernorp')
     })
 
     $('#ig').click(function(){
