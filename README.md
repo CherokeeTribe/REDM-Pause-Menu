@@ -31,6 +31,10 @@ Follow these simple steps to install the custom pause menu on your RedM server:
 Open the **index.html** to make any edits to images or to change the look of the Pausemenu.
 It's using HTML5, CSS, & javascript.
 
+## Credits
+Original Author: billzoygkos
+Converted for RedM: This repository.
+
 ## Updated Preview
 ![RedM Logo](https://files.catbox.moe/g5e0w7.png)
 
@@ -38,12 +42,9 @@ It's using HTML5, CSS, & javascript.
 ![RedM Logo](https://files.catbox.moe/3anxop.png)
 To get it back to looking like this without the discord icon-
 Go to the **index.html**
-re-add this:
-**<button id="discordinv" class="options">DISCORD</button><br/>**
-remove this from the bottom of the page: 
-   **<button id="discordinv-icon" class="options" style="background: blue; color: white; font-size: 20px;">
+```plaintext
+re-add this:<button id="discordinv" class="options">DISCORD</button><br/>
+
+remove this from the bottom of the page: <button id="discordinv-icon" class="options" style="background: blue; color: white; font-size: 20px;">
                         <i class="fa-brands fa-discord"></i>
-                    </button>**
-## Credits
-Original Author: billzoygkos
-Converted for RedM: This repository.
+                    </button>
