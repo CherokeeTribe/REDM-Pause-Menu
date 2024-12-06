@@ -2,6 +2,12 @@ window.addEventListener('load', function() {
   console.log('PauseMenu Started')
 })
 
+window.addEventListener('keydown', function(event) {
+  if (event.key === "Escape") {
+    CloseAll();
+  }
+});
+
 window.addEventListener('message', function(event) {
   var v = event.data
 
