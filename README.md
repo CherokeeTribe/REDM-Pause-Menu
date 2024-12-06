@@ -38,7 +38,6 @@ It's using HTML5, CSS, & javascript.
 To get it back to looking like this without the discord icon-
 Go to the index.html
 re-add this:
-   ```plaintext
    <button id="discordinv" class="options">DISCORD</button><br/>
 
 remove this from the bottom of the page: 
