@@ -39,13 +39,11 @@ It's using HTML5, CSS, & javascript.
 To get it back to looking like this without the discord icon-
 Go to the **index.html**
 re-add this:
-   <button id="discordinv" class="options">DISCORD</button><br/>
+**<button id="discordinv" class="options">DISCORD</button><br/>**
 remove this from the bottom of the page: 
-   <button id="discordinv-icon" class="options" style="background: blue; color: white; font-size: 20px;">
+   **<button id="discordinv-icon" class="options" style="background: blue; color: white; font-size: 20px;">
                         <i class="fa-brands fa-discord"></i>
-                    </button>
-
-
+                    </button>**
 ## Credits
 Original Author: billzoygkos
 Converted for RedM: This repository.
