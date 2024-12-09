@@ -32,7 +32,7 @@ Open the **index.html** to make any edits to images or to change the look of the
 It's using HTML5, CSS, & javascript.
 
 ## Credits
-Original Author: billzoygkos
+Original Author: **billzoygkos**
 Converted for RedM
 
 Some whiney nerd named, **Tucan.exe** wanted credits even though the source wasn't grabbed from his edit but from the actual original poster/source in which he was always given credits. Entitled little brat is being recognized here though since he wanted recognition for something he didn't do. He simply could have messaged me and asked and i would have given him more info on it or even added him in.
